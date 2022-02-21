@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+# Dependencies
+python_version = str("3.0 or later")
+bash_version = str("5.0 or later")
+gnu_make_version = str("1.0 or later")
+css_version = str("3.0 or later")
+wolfram_mathematica_version = str("12.0 or later")
+raspberry_pi_os_version = str("4.0 or later")
+# File version: 1 (2022, Monday, February 21st at 2:44 pm)
+# Line count (including blank lines and compiler line): 11
